@@ -5,8 +5,12 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME</editor>
-        <editor>YOUR NAME</editor>
+        <editor>Augusta Holyfield</editor>
+        <editor>Ineke Sluiter</editor>
+        <editor>Savannah Wahlgren</editor>
+        <editor>Zach Tympanick</editor>
+        <editor>Suh Young Choi</editor>
+        <editor></editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -20,6 +24,7 @@
     <body>
       <div n="4">
         <l n="title">ἀρχὴ τῆς δέλτα ὁμήρου ἰλιάδος ⁑</l>
+        <l n="36">ἄλλουσ τε τρῶας; τότε κεν χόλον ἐξακέσαιο:</l>
       </div>
     </body>
   </text>
