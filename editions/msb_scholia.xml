@@ -58,7 +58,35 @@
             </div>
           </div>
 
-          
+          <div n="52r_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="15">ιε</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.40@ὁππότε</p>
+            </div>
+            <div n="comment">
+              <p>καὶ ταῦτα κερτομικὰ, πρὸς τὸ τὴν χάριν ἐπὶ πλεῖον αὔξειν⁑
+              </p>
+            </div>
+          </div>
+
+          <div n="52r_3" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="16">ιϝ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.41@ἐκγεγάᾱσι</p>
+            </div>
+            <div n="comment">
+              <p>ἐνδιατρίβουσιν οὐ γεγέννηνται: πολλοὶ γὰρ ἀλλαχοῦ γεννώμενοι, ἀλλαχοῦ οἰκοῦσιν⁑
+              </p>
+            </div>
+          </div>
         
         </body>
       </text>
