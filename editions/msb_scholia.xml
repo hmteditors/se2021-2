@@ -87,6 +87,36 @@
               </p>
             </div>
           </div>
+
+          <div n="52r_4" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="17">ιζ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.42@διατρίβειν</p>
+            </div>
+            <div n="comment">
+              <p>μαλάσσειν: ἡ μεταφορὰ ἐκ τοῦ κηροῦ: ἐμφαίνει δὲ τὴν τῶν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers71">Ἡρακλειδῶν</rs> κάθοδον⁑
+              </p>
+            </div>
+          </div>
+
+          <div n="52r_5" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="18">ιη</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.43@δῶκα</p>
+            </div>
+            <div n="comment">
+              <p>πολλὰ γὰρ παρὰ προαίρεσιν τῆς ψυχῆς πράττομεν, πρὸς τὸ κεχαρισμένον τῶν πέλασ: ὡς εἰ ἔλεγε, κατεδεξάμην μὲν ἐγὼ: τὰ δὲ τῆς προαιρέσεως οὔ πω μοι κατένευσεν⁑
+              </p>
+            </div>
+          </div>
         
         </body>
       </text>
